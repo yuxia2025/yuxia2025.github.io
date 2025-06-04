@@ -3,7 +3,7 @@ title: "Third-Party SDK Utilization and Mobile App Market Performance: An Empiri
 collection: publications
 category: working
 permalink: /publication/workingpaper-xy2
-excerpt: 'Keywords: Daily Active users, Third-Party SDK, Boundary Object, Boundary Spanning, Platform Boundary Resources, Platform Updates, Mobile App Developer'
+excerpt: 'Keywords: Daily Active Users, Third-Party SDK, Boundary Object, Boundary Spanning, Platform Boundary Resources, Platform Updates, Mobile App Developer'
 status: "Under Review"
 #date: 2025-06-01
 authors: "Hailiang Chen & Yulin Fang"
