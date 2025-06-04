@@ -4,12 +4,12 @@ collection: publications
 category: working
 permalink: /publication/workingpaper-xy2.md
 excerpt: 'Keywords: daily active users, third-party SDK, boundary object, boundary spanning, platform boundary resources, platform updates, mobile app developer'
-action: "Under Review at"
+action: "Under Review"
 date: 2025-06-01
 #venue: 'ISR'
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 #paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: ''
+#citation: ''
 ---
 
 **Abstract**
