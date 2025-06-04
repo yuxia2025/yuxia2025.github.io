@@ -43,7 +43,7 @@
         {% elsif post.collection == 'publications' %}
           <p>
             {% if post.action %}{{ post.action }} {% endif %}
-            {% if post.venue %}<i>{{ post.venue }}</i>{% endif %}, 
+            {% if post.venue %}{{ post.venue }} {% endif %}, 
             {{ post.date | default: "1900-01-01" | date: "%Y" }}
           </p>
         {% elsif post.date %}
