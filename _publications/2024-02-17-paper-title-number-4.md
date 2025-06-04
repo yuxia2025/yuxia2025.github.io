@@ -3,7 +3,7 @@ title: "Female-Exclusive Support and Gender Gap on Digital Platforms"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-#excerpt: 'This paper is about fixing template issue #693.'
+excerpt: 'Best Paper Nominee at ICIS2023'
 #date: 2023-12
 venue: 'ICIS2023'
 # paperurl: 'http://academicpages.github.io/files/paper3.pdf'
