@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "My Name"
+title: "XIA Yu"
 author_profile: true
 redirect_from: 
   - /about/
