@@ -23,6 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "Photo.jpg"
+  
   name             : "Biographic Information"
   pronouns         : # example: "she/her"  
   bio              : 
