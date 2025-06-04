@@ -45,13 +45,15 @@
             {{ post.date | default: "1900-01-01" | date: "%Y" }}
           </p>
         {% elsif post.collection == 'publications' %}
-          <p>
-            {% if post.action %}{{ post.action }} {% endif %}
-            {% if post.venue %}{{ post.venue }} {% endif %},
-            {{ post.date | default: "1900-01-01" | date: "%Y" }}
-          </p>
           {% if post.action == "Under Review" and post.authors %}
-            <p>Work with {{ post.authors }}</p>
+            <p>Under Review (Work with {{ post.authors }})</p>
+          {% if post.action == "Accept" and post.authors %}
+            <p>
+              {% if post.action %}{{ post.action }} {% endif %}
+              {% if post.venue %}{{ post.venue }} {% endif %},
+              {{ post.date | default: "1900-01-01" | date: "%Y" }}
+            </p>
+
           {% endif %}
         {% elsif post.date %}
     
