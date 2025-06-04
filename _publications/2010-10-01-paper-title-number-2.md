@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/50863a2a-596a-4d00-a3bf-a765618c0f8f)---
+
 title: "Third-Party SDK Utilization and Mobile App Market Performance: An Empirical Study from the Boundary-Spanning Perspective"
 collection: publications
 category: working
