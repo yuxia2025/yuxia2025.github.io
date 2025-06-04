@@ -5,6 +5,7 @@ category: conferences
 permalink: /publication/xy4-Proceedings-ICIS2023
 award: 'Best Paper Nominee'
 #date: 2023-12
+excerpt: 'Keywords: Gender Gap, Female-Exclusive Platfrom Support, Mobile Platform, Mobile App Performance, Spillover Impact'
 venue: 'ICIS2023'
 # paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 # citation: 'Xia, Yu, and Hailiang Chen. "Female-exclusive Support and Gender Gap on Digital Platforms." In International Conference on Information Systems, ICIS 2023, Hyderabad, India'
