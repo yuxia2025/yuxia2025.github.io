@@ -1,7 +1,7 @@
 ---
 title: "Third-Party SDK Utilization and Mobile App Market Performance: An Empirical Study from the Boundary-Spanning Perspective"
 collection: publications
-category: Books
+category: books
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Mobile App Development Strategy and Performance Outcome'
 date: 2025-06-01
