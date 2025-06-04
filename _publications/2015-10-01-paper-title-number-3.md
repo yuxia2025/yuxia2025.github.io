@@ -6,9 +6,9 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'Keywords: daily active users, third-party SDK, boundary object, boundary spanning, platform boundary resources, platform updates, mobile app developer'
 action: "Under Review at"
 date: 2025-06-01
-venue: 'ISR'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+#venue: 'ISR'
+#slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
+#paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: ''
 ---
 
