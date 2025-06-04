@@ -2,7 +2,7 @@
 title: "Third-Party SDK Utilization and Mobile App Market Performance: An Empirical Study from the Boundary-Spanning Perspective"
 collection: publications
 category: working
-permalink: /publication/workingpaper-xy2.md
+permalink: /publication/workingpaper-xy2
 excerpt: 'Keywords: daily active users, third-party SDK, boundary object, boundary spanning, platform boundary resources, platform updates, mobile app developer'
 action: "Under Review"
 date: 2025-06-01
