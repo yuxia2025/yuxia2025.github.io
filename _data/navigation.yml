@@ -9,7 +9,7 @@
 
 main:
   - title: "Papers"
-    url: /publications/
+    url: /publication/
 
    - title: "Talks"
      url: /talks/    
