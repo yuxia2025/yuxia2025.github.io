@@ -2,8 +2,8 @@
 title: "The Impacts of Platform Commission Reductions on Mobile App Revenue and Market Competition: An Empirical Study of Apple’s Policy"
 collection: publications
 category: working
-permalink: /publication/workingpaper-xy2
-excerpt: 'Keywords: daily active users, third-party SDK, boundary object, boundary spanning, platform boundary resources, platform updates, mobile app developer'
+permalink: /publication/workingpaper-xy3
+excerpt: 'Keywords: Mobile Platform Governance, Commission Reduction, In-App Purchase Revenue, Financial Incentives, Competition Dynamics'
 #action: "Under Review"
 #date: 2025-06-01
 authors: "Hailiang Chen"
