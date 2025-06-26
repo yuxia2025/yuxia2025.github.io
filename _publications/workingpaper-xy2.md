@@ -5,9 +5,9 @@ category: manuscripts
 permalink: /publication/workingpaper-xy2
 excerpt: 'Keywords: Daily Active Users, Third-Party SDK, Boundary Object, Boundary Spanning, Platform Boundary Resources, Platform Updates, Mobile App Developer'
 status: "Forthcoming"
-#date: 2025-06-01
+#date: 2025-06-23
 authors: "Hailiang Chen & Yulin Fang"
-venue: 'ISR'
+venue: 'Information Systems Research'
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 #paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 #citation: ''
