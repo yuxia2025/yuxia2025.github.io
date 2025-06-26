@@ -81,10 +81,10 @@ author:
 publication_category:
   books:
     title: 'Books'
-  working:
-    title: 'Working Papers'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'  
+  working:
+    title: 'Working Papers' 
   conferences:
     title: 'Conference Proceedings'
 
