@@ -43,6 +43,7 @@
         {% elsif post.collection == 'publications' and post.status == 'Published' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' and post.status == 'Forthcoming' %}
+          <p>Work with <i>{{ post.authors }}</i> </p>
           <p>Forthcoming at <i>{{ post.venue }}</i>, {{ post.date | default: "" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' and post.status == 'Under Review' %}
           <p>Work with <i>{{ post.authors }}</i> </p>
