@@ -43,7 +43,7 @@
         {% elsif post.collection == 'publications' and post.status == 'Published' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' and post.status == 'Forthcoming' %}
-          <p>Forthcoming in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p>Forthcoming at <i>{{ post.venue }}</i>, {{ post.date | default: "" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' and post.status == 'Under Review' %}
           <p>Work with <i>{{ post.authors }}</i> </p>
         {% elsif post.collection == 'publications' and post.category == 'conferences'and post.award %}
